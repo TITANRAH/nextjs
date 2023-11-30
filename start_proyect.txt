@@ -1,0 +1,10 @@
+seguir doc 
+
+https://nextjs.org/learn/dashboard-app/getting-started
+
+ // haz un require de este modulo y ejecuta este archivo
+    "seed": "node -r dotenv/config .7scripts/seed.js"
+
+crea skeleton https://skeletonreact.com/
+
+INSTALAR  npm install use-debounce -E para evitar renderizar cada vez que haga busqueda en el search
